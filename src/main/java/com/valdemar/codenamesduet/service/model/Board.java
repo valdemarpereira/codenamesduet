@@ -10,5 +10,8 @@ public class Board {
 
     private List<WordCard> words = new ArrayList<>(25);
 
+    private List<TimerTokens> timerTokens = new ArrayList<>(9);
+
+
 
 }
